@@ -1,0 +1,5 @@
+1) Open the file in colab and change the locations of the input.xlsx and other file data .
+2) You can run it on jupyter notebook as well as google colab
+3) The approach i have used is that after scraping data from the sites using beautiful soup , i created functions manually 
+and put in the formulas that we used in the python functions . Also i have used senitment intensity analyzer to calculate 
+polarity scores .
